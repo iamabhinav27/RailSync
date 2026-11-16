@@ -1,0 +1,11 @@
+bin/
+sources.txt
+*.class
+# local database and generated files
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/receipts/*.txt
+data/reports/*.txt
+# JavaFX SDK is platform specific - download it separately
+lib/javafx-sdk/
